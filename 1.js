@@ -1,20 +1,4 @@
 
-// // let textAreaElement = document.getElementById("message");
-
-// // let saveButton  = document.getElementById("saveButton");
-
-// // saveButton.onclick = function(){
-// //    let userEnteredText = textAreaElement.value;
-// //     localStorage.setItem("userEnteredText" , userEnteredText);
-// // }
-
-// // let storedInputValue = localStorage.getItem("userEnteredText");
-// // if(storedInputValue === null){
-// //     textAreaElement.value = "";
-// // }
-// // else{
-// //     textAreaElement.value = storedInputValue;
-// }
 
 
 let userNameEl = document.getElementById("userName");
